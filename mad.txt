@@ -2,7 +2,7 @@ I have a pet dog (noun) named Charles.
 
 He is very aggressive (adjective).
 
-I feed him organic, locally sourced ______ (noun).
+I feed him organic, locally sourced pumpkin (noun).
 
 He is only about the size of my ______ (noun).
 
