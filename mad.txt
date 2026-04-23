@@ -1,6 +1,6 @@
 I have a pet dog (noun) named Charles.
 
-He is very ______ (adjective).
+He is very aggressive (adjective).
 
 I feed him organic, locally sourced ______ (noun).
 
